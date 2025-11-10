@@ -16,7 +16,7 @@ class Varasto:
 
     def check_negative(self,tilavuus):
         if tilavuus<0.0:
-            self.tilavuus=0.0
+                self.tilavuus=0.0
 
 
 
